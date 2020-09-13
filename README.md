@@ -1,6 +1,7 @@
 # Lazy Loading
-** Página Optimizada para lazy loading**
+*Página Optimizada para lazy loading*
 
+## Vista Previa:
 *Previsualización de la página*
 !["Lazy Loading"](https://ik.imagekit.io/demoxd/lazy-loading_akQ7o-yra-.png?tr=w-1080,h-566,fo-auto "Lazy Loading")
 
